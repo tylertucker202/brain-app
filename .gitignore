@@ -1,6 +1,9 @@
 notes.txt
 node_modules/*
 .vscode/*
+<<<<<<< HEAD
 config/*
 BrainDataHarvard-SDSU/*
 .sequelizerc
+=======
+>>>>>>> 4636ad78345307b42eb7f737a54f6565020c6913

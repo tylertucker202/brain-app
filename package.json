@@ -33,8 +33,12 @@
     "pg-hstore": "^2.3.2",
     "pug": "^2.0.0-rc.2",
     "pug-lexer": "^3.1.0",
+<<<<<<< HEAD
     "sequelize": "^3.31.1",
     "sequelize-cli": "^3.2.0",
+=======
+    "sequelize": "^4.28.6",
+>>>>>>> 4636ad78345307b42eb7f737a54f6565020c6913
     "serve-favicon": "~2.4.5"
   },
   "devDependencies": {

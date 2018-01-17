@@ -8,7 +8,10 @@ var app = require('../app');
 var debug = require('debug')('brain-app:server');
 var http = require('http');
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4636ad78345307b42eb7f737a54f6565020c6913
 /**
  * Get port from environment and store in Express.
  */

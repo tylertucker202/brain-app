@@ -5,7 +5,10 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var config = require('config'); //database information stored here
+<<<<<<< HEAD
 //var pg = require('pg'); // use for pg only
+=======
+>>>>>>> 4636ad78345307b42eb7f737a54f6565020c6913
 
 var index = require('./routes/index');
 var users = require('./routes/users');
@@ -13,6 +16,7 @@ var brainSlicer = require('./routes/brainSlicer');
 
 var app = express();
 
+<<<<<<< HEAD
 //detect what environmnet is used
 const ENV = config.util.getEnv('NODE_ENV')
 
@@ -26,6 +30,8 @@ client.connect();
 */
 
 
+=======
+>>>>>>> 4636ad78345307b42eb7f737a54f6565020c6913
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
