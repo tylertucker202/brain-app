@@ -1,0 +1,5 @@
+var Brain = require('./brainSlicerController');
+
+module.exports = {
+  Brain,
+};
